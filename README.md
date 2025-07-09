@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project Progress
+Basic HTML website for the Odin Project displaying recipes.
